@@ -1,0 +1,14 @@
+.flatpickr-current-month .flatpickr-monthDropdown-months{
+    background-image: url("../img/down.svg") !important;
+        background-repeat: no-repeat !important;
+        background-position: right 8px center !important;
+}
+.flatpickr-current-month .flatpickr-monthDropdown-months, .flatpickr-current-month input.cur-year{
+    appearance: none !important;
+    border: none !important;
+    background-color: transparent !important;
+    font-weight: 600 !important;
+}.flatpickr-calendar .flatpickr-current-month .numInputWrapper span.arrowUp,
+.flatpickr-calendar .flatpickr-current-month .numInputWrapper span.arrowDown {
+    display: none !important;
+}
