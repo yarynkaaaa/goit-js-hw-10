@@ -88,6 +88,7 @@ fieldset:hover {
   border: 1px solid #000;
 }
 button {
+  font-family: 'Montserrat', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
