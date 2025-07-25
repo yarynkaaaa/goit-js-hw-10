@@ -1,0 +1,37 @@
+.iziToast.iziToast-color-red {
+    background: #ef4040 !important;
+}
+
+.iziToast>.iziToast-body .iziToast-icon.ico-error {
+    background: url('../img/error.svg') !important;
+}
+
+.iziToast>.iziToast-body .iziToast-icon.ico-success {
+    background: url('../img/success.svg') !important;
+}
+
+.iziToast-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    letter-spacing: 0.03em !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+.iziToast-message {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    letter-spacing: 0.03em !important;
+    color: #fff !important;
+}
+
+.iziToast-close {
+    background: url(../img/close.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    fill: #fff !important;
+}
